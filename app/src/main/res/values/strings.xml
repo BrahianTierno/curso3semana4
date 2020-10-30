@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="nombre">Perrito</string>
+    <string name="telefono">9</string>
+    <string name="pnombre">nombre</string>
+    <string name="likes">likes</string>
+    <string name="plikes">0</string>
+
+    <!-- Datos -->
+    <string name="dev_name">Sobre el desarrollador</string>
+    <string name="estado">Montevideo, Uruguay</string>
+    <string name="estudios">Analista TI</string>
+    <string name="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</string>
+    <!-- Contacto -->
+    <string name="contacto">Contacto</string>
+    <string name="nombreCont">Nombre</string>
+    <string name="correoCont">Correo</string>
+    <string name="mensajeCont">Mensaje</string>
+    <string name="botonEnviar">Enviar</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="compose_shortcut_short_label1">PG</string>
+    <string name="compose_shortcut_long_label1">Petagram</string>
+    <string name="compose_disabled_message1">Disabled</string>
+</resources>
